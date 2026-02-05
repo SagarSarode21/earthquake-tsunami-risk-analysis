@@ -26,13 +26,12 @@ Tsunami-related earthquakes show geographic clustering
 
 ## Project Structure
 
-├── data/earthquake_data_tsunami.csv
+data/earthquake_data_tsunami.csv 
+ notebook/earthquake_tsunami_analysis.ipynb
 
-├── notebook/earthquake_tsunami_analysis.ipynb
+report/Earthquake_Tsunami_Analysis_Report.pdf
 
-├── report/Earthquake_Tsunami_Analysis_Report.pdf
-
-└── README.md
+README.md
 
 
 ## Outputs
