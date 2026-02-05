@@ -1,10 +1,10 @@
 # Earthquake & Tsunami Risk Analysis (Python)
 
-Project Overview
+## Project Overview
 
 Exploratory analysis of global earthquake data to understand patterns associated with tsunami occurrences using magnitude, depth, time, and location.
 
-Tools Used
+## Tools Used
 
 Python
 
@@ -14,7 +14,7 @@ Matplotlib, Seaborn
 
 Jupyter Notebook
 
-Key Insights
+## Key Insights
 
 High magnitude alone does not guarantee tsunami occurrence
 
@@ -24,13 +24,13 @@ Tsunami events are relatively rare but spike in certain years
 
 Tsunami-related earthquakes show geographic clustering
 
-Project Structure
+## Project Structure
 ├── data/earthquake_data_tsunami.csv
 ├── notebook/earthquake_tsunami_analysis.ipynb
 ├── report/Earthquake_Tsunami_Analysis_Report.pdf
 └── README.md
 
-Outputs
+## Outputs
 
 Jupyter Notebook with full analysis
 
