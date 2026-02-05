@@ -25,10 +25,14 @@ Tsunami events are relatively rare but spike in certain years
 Tsunami-related earthquakes show geographic clustering
 
 ## Project Structure
-├── data/earthquake_data_tsunami.csv
-├── notebook/earthquake_tsunami_analysis.ipynb
-├── report/Earthquake_Tsunami_Analysis_Report.pdf
-└── README.md
+
+ data/earthquake_data_tsunami.csv
+ 
+ notebook/earthquake_tsunami_analysis.ipynb
+ 
+ report/Earthquake_Tsunami_Analysis_Report.pdf
+ 
+ README.md
 
 ## Outputs
 
